@@ -2,10 +2,33 @@
 import { Content } from 'vitepress';
 import { onMounted } from 'vue';
 
-/*横排引号转换为竖排引号*/
-onMounted(() => {
+var attributesBeforeModify : string[] = [];
+
+var adjusted : boolean = false;
+
+function revertVerticalAdjustments() {
+  if(adjusted === false) return;
+  var equList = document.querySelector('.vertical-layout-container')!.querySelectorAll('mjx-container');
+  if(equList.length * 4 !== attributesBeforeModify.length)
+    throw Error("Index out of bound for attributesBeforeModify, expected " + equList.length * 4 + ", got " + 
+                    attributesBeforeModify.length + '.');
+  for(var i = 0; i < equList.length; ++i) {
+    var svg = equList[i].querySelector('svg');
+    // restore the original svg attributes since we need to redo the adjustments afterwards.
+    svg!.setAttribute('viewBox', attributesBeforeModify[i * 4]);
+    svg!.setAttribute('height', attributesBeforeModify[i * 4 + 1]);
+    svg!.setAttribute('width', attributesBeforeModify[i * 4 + 2]);
+    svg!.setAttribute('style', attributesBeforeModify[i * 4 + 3]);
+  }
+  adjusted = false;
+}
+
+function doVerticalAdjustments() {
+  if(adjusted === true) return;
+  
+  // 横排引号转换为竖排引号
   var divList = ['p', 'h1', 'h2', 'h3', 'h4', 'h5']
-  var replaceList = ['“', '『', '”', '』', '‘ ', '「', '’', '」'];
+  var replaceList = ['“', '『', '”', '』', '‘', '「', '’', '」'];
   for(var i = 0; i < divList.length; ++i) {
       var selectedDiv = document.querySelector('.vertical-layout-container')!.querySelectorAll(divList[i]);
       for(var j = 0; j < selectedDiv.length; ++j) {
@@ -16,7 +39,107 @@ onMounted(() => {
           selectedDiv[j].innerHTML = str;
       }
   }
+  
+  // 调整公式SVG
+  while(attributesBeforeModify.length !== 0) {
+    attributesBeforeModify.pop();
+  }
+  var equList = document.querySelector('.vertical-layout-container')!.querySelectorAll('mjx-container');
+
+  for(var i = 0; i < equList.length; ++i) {
+
+    var svg = equList[i].querySelector('svg');
+
+    // ==== keep a copy or the original svg attributes ====
+    // keep a copy of the original viewBox attributes at 0, 4, ... 
+    attributesBeforeModify.push(svg!.getAttribute('viewBox')!);
+    // keep a copy of the original height and width at 1, 2, 5, 6, ...
+    attributesBeforeModify.push(svg!.getAttribute('height')!);
+    attributesBeforeModify.push(svg!.getAttribute('width')!);
+    // keep a copy of the original style attributes 3, 7, ...
+    attributesBeforeModify.push(svg!.getAttribute('style')!);
+    // ==== end of save a copy of the original svg attributes ====
+
+    // ==== viewBox attributes adjustments === 
+    // split viewBox parameters
+    var str_viewBoxParameters = svg!.getAttribute('viewBox')!.split(' '); // min_x min_y delta_x delta_y : string[] 
+    // convert viewBox parameters into number to calculate
+    var num_viewBoxParameters : number[] = [];
+    for(var j = 0; j < str_viewBoxParameters.length; ++j) {
+      num_viewBoxParameters.push(Number(str_viewBoxParameters[j])); // min_x min_y delta_x delta_y : number[] 
+    }
+    // rotate the viewBox 90 degrees around its center
+    num_viewBoxParameters[0] = num_viewBoxParameters[0] + 0.5 * num_viewBoxParameters[2] - 0.5 * num_viewBoxParameters[3];
+    num_viewBoxParameters[1] = num_viewBoxParameters[1] + 0.5 * num_viewBoxParameters[3] - 0.5 * num_viewBoxParameters[2];
+    // swap width and height of the viewBox
+    var tmp = num_viewBoxParameters[2];
+    num_viewBoxParameters[2] = num_viewBoxParameters[3];
+    num_viewBoxParameters[3] = tmp;
+    // convert viewBox parameters into string for setAttribute()
+    var str_viewBoxAttributes : string = '';
+    for(var j = 0; j < num_viewBoxParameters.length; ++j) {
+      str_viewBoxAttributes +=  (' ' + String(num_viewBoxParameters[j]));
+    }
+    str_viewBoxAttributes.trimStart();
+    // set viewBox attributes
+    svg!.setAttribute('viewBox', str_viewBoxAttributes);
+    // ==== end of viewBox attributes adjustments ====
+
+    // ==== swap width and height of svg ====
+    var tmp2 = svg!.getAttribute('width');
+    svg!.setAttribute('width', svg!.getAttribute('height')!);
+    svg!.setAttribute('height', tmp2!);
+    // ==== end of width and height adjustments ====
+
+    // ==== style attributes (baseline) adjustments ====
+    var str_styleParameters = svg!.getAttribute('style')!.split(' ');
+    str_styleParameters.push(String(-0.5 * Number(str_styleParameters.pop()!.replace('ex;',''))) + 'ex;')
+    // convert style parameters into string for setAttribute()
+    var str_styleAttributes : string = '';
+    for(var j = 0; j < str_styleParameters.length; ++j) {
+      str_styleAttributes += (' ' + str_styleParameters[j]);
+    }
+    str_styleAttributes.trimStart();
+    // set style attributes
+    svg!.setAttribute('style', str_styleAttributes);
+    // ==== end of style (baseline) attributes adjustments ====
+  }
+  adjusted = true;
+}
+
+// dummy error handling
+function handleError(e : any) {
+  console.log(e);
+  location.reload();
+}
+
+
+// register Vue event hooks
+onMounted(() => {
+  try {
+    doVerticalAdjustments();
+  } catch (e) {
+    handleError(e);
+  }
 });
+
+// register Vite HMR hooks
+if(import.meta.hot) {
+  import.meta.hot.on('vite:beforeUpdate', () => {
+    try {
+      revertVerticalAdjustments();
+    } catch (e) {
+      handleError(e);
+    }
+  });
+  import.meta.hot.on('vite:afterUpdate', () => {
+    try {
+      doVerticalAdjustments();
+    } catch (e) {
+      handleError(e);
+    }
+  });
+}
 </script>
 
 <template>
@@ -27,6 +150,16 @@ onMounted(() => {
 
 <style>
 
+/* 旋转直排公式 */
+.vertical-layout-container mjx-container > svg {
+  transform: rotate(90deg);
+  transform-origin: center center;
+}
+/* clip extra scroll bar */
+.vertical-layout-container mjx-container {
+  overflow-x: visible;
+}
+
 /* 竖排段落适配：取消默认 margin，调整间距 */
 .vertical-layout-container p {
   margin: 0;
@@ -35,7 +168,7 @@ onMounted(() => {
   white-space: normal;
   padding-inline-start: 2em; /*另起一行空两格*/
   /* break-inside: avoid;*/
-  line-height: 1.5em;
+  line-height: 1.6em;
   margin-block: 1em;
 }
 
@@ -191,13 +324,14 @@ onMounted(() => {
   font-optical-sizing: auto;
   writing-mode: vertical-rl; /* 核心：从右到左竖排（中文传统） */
   text-orientation: mixed; /* 文字直立，不旋转 */
+  text-align: justify; /* 分散对齐 */
   max-width: calc(100vh - 20px); /* 适配默认文档宽度 */
   width: 100%;
   margin: 0 auto; /* 居中 */
   padding: 20px 0;
   letter-spacing: 2px; /* 字间距，避免拥挤 */
 
-    /* 浅米色背景+细微纹理渐变（模拟纸张质感） */
+  /* 浅米色背景+细微纹理渐变（模拟纸张质感） */
   background-color: #f9f7f3;
   background-image: 
     linear-gradient(90deg, rgba(0,0,0,0.01) 1px, transparent 1px),
@@ -266,4 +400,5 @@ onMounted(() => {
     font-size: 0.9em;
   }
 }
+
 </style>

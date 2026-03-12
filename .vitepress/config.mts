@@ -1,6 +1,24 @@
 import { defineConfig } from 'vitepress';
+import mathjax3 from 'markdown-it-mathjax3';
 
 export default defineConfig({
+  markdown: {
+    config: (md) => {
+      md.use(mathjax3, {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']]
+        }
+      });
+    }
+  },
+  vue: {
+    template: {
+      compilerOptions: {
+        isCustomElement: (tag) => ['mjx-assistive-mml', 'mjx-container'].includes(tag)
+      }
+    }
+  },
   title: "ZnP锌小屋",
   description: "A place to put down my spirits.",
   locales: {

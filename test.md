@@ -12,13 +12,37 @@ title: 测试页面
 
 ##### h5
 
+$$\int_0^{\infty} e^{-x^2}\,dx = \frac{\sqrt{\pi}}{2}$$
+
+$$
+\begin{aligned}
+\nabla\cdot\mathbf{E}&=\frac{\rho}{\varepsilon_0}\\
+\nabla\cdot\mathbf{B}&=0\\
+\nabla\times\mathbf{E}&=-\frac{\partial\mathbf{B}}{\partial t}\\
+\nabla\times\mathbf{B}&=\mu_0\mathbf{J}+\mu_0\varepsilon_0\frac{\partial\mathbf{E}}{\partial t}
+\end{aligned}
+$$
+
+$$
+a^2+b^2=c^2
+$$
+
 > This is a quote.
 >
 > This is line tow of quote.
 
 > 这是引用段。
->
+> 
+> $$
+> \begin{aligned}
+> f_x(x)&=\int_{-\infty}^{\infty}f(x,y)\mathrm{d}y=\int_0^1\frac{x+2y}4\mathrm{d}y\\
+> &=\left.\frac{xy+y^2}4\right|_0^1=\frac{x+1}4
+> \end{aligned}
+> $$
+> 
 > 这是引用第二段。
+
+这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字 the quick brown fox jumps over a lazy dog. the quick brown fox jumps over a lazy dog. the quick brown fox jumps over a lazy dog. $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ the quick brown fox jumps over a lazy dog. the quick brown fox jumps over a lazy dog. the quick brown fox jumps over a lazy dog. 直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字直排文字这是直排文字这是直排文字这是直排文字这是直排文字文字这是直排文字这是直排文字这是直排文字 $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$ 这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字这是直排文字
 
 |This|is|a|tabular|
 |---|---|---|---|
