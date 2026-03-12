@@ -36,6 +36,6 @@ export default {
   enhanceApp({ app }) {
     app.component('PdfViewer', PdfViewer);
     app.component('Donate', Donate);
-    app.component('Vertical', Vertical)
+    app.component('Vertical', Vertical);
   },
 } satisfies Theme

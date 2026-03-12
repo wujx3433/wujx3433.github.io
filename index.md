@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "ZnP锌小屋 / ZnP mansion"
   text: "心灵寄存处"
-  tagline: A place to put down my spirits.
+  tagline: A place to put down our spirits.
   actions:
     - theme: brand
       text: 点击跳转到小说页

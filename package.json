@@ -24,6 +24,7 @@
   "devDependencies": {
     "gulp": "^5.0.1",
     "markdown-it-mathjax3": "^4.3.2",
+    "typescript": "^5.9.3",
     "vitepress": "^1.6.4"
   },
   "dependencies": {
