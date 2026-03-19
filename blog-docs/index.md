@@ -18,7 +18,12 @@ Copyright © 2018 - 2025 wujx3433 aka Zn.
 
 ### Mar 2026
 
-[17 Mar 2026 【洛天依ACE原创】梦的序章 Remastered](17%20Mar%202026%20【洛天依ACE原创】梦的序章%20Remastered.md)
+[20 Mar 2026 【洛天依ACE原创】给我亲爱的前同桌元步欣](./20%20Mar%202026%20【洛天依ACE原创】给我亲爱的前同桌元步欣.md)
+::: info
+原创小说《予我》番外曲
+:::
+
+[17 Mar 2026 【洛天依ACE原创】梦的序章 Remastered](./17%20Mar%202026%20【洛天依ACE原创】梦的序章%20Remastered.md)
 ::: info
 七年过去了，我的梦实现了吗？
 :::
