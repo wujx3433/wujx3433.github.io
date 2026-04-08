@@ -1,3 +1,25 @@
+/*绿色按钮*/
+.green-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #42b983; /* 按钮主题色 */
+  color: #ffffff !important;  /* 强制覆盖Markdown默认链接颜色 */
+  text-decoration: none !important; /* 去掉下划线 */
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 50px;
+}
+
+/* 鼠标悬浮效果 */
+.green-btn:hover {
+  background-color: #359469;
+}
+
 /* 爱发电打赏组件 - 暗黑模式适配（全局生效） */
 html.dark .afdian-donate-container {
   border-color: #333;

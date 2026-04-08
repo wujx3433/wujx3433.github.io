@@ -72,7 +72,7 @@ Zn（又名 ZnP），常用用户名 **wujx3433**。
 
 <img src='/afdian-ZnP.png' alt='扫描跳转到爱发电' loading='lazy' style='height: 500px; width: auto;' /><br>
 
-<a href="https://afdian.com/a/wujx3433" target="_blank" class="download-pdf-btn">
+<a href="https://afdian.com/a/wujx3433" target="_blank" class="green-btn">
   点击跳转到我的爱发电主页
 </a>
 

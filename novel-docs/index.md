@@ -58,12 +58,22 @@ layout: doc
 
 作品简介由AI总结而成，请注意分辨。
 
-### （同行评议中）[铁框里的自己：家庭高压下跨性别女性的自我认同困境](https://github.com/wujx3433/Self-within-Iron-Frames-The-Self-Identity-Dilemma-of-Transgender-Women-Under-High-Pressure-Family)
+### （同行评议中）铁框里的自己：家庭高压下跨性别女性的自我认同困境
+
+<a href="https://github.com/wujx3433/Self-within-Iron-Frames-The-Self-Identity-Dilemma-of-Transgender-Women-Under-High-Pressure-Family" target="_blank" class="green-btn">
+  本文GitHub仓库
+</a>
+
+<a href="https://shitspace.xyz/article/e0c0c949-0a6d-40cf-823e-2c0ac16b22e6" target="_blank" class="green-btn">
+  本文期刊页面
+</a>
+
 ::: info
 本文以学术论文为文体框架，书写跨性别女性视角的形式小说，结合亲身经历剖析东亚家庭高压下跨性别女性的自我认同困境。拆解父权期待、面子心理等家庭压力的具体表现，通过成长阶段的真实案例，交织个体体验与群体现状，不求严苛学术论证，只为让跨性别女性的痛苦与挣扎被看见，为相似经历者提供情感共鸣。
 :::
 
 ### （已完结）[合身](./合身.md)
+
 ::: info
 五年前，我站在药店门口，手心出汗，以为那是一扇通往另一个身份的门。
 
