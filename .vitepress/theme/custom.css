@@ -9,15 +9,45 @@
   font-weight: 500;
   cursor: pointer;
   transition: background-color 0.2s ease;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left: 10px;
-  margin-right: 50px;
+  margin: 10px 50px 10px 10px;
 }
 
-/* 鼠标悬浮效果 */
+/* 绿色按钮鼠标悬浮效果 */
 .green-btn:hover {
   background-color: #359469;
+}
+
+/*紫色按钮*/
+.purple-btn {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #9b59b6; /* 按钮主题色 */
+  color: #ffffff !important;  /* 强制覆盖Markdown默认链接颜色 */
+  text-decoration: none !important; /* 去掉下划线 */
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+  margin: 10px 10px 10px 0;
+}
+
+/* 紫色按钮鼠标悬浮效果 */
+.purple-btn:hover {
+  background-color: #8e44ad;
+}
+
+/*feature标签*/
+.feature-flag {
+  display: inline-block;
+  padding: 4px 4px;
+  text-decoration: none !important;
+  background-color: #cee3a3;
+  color: #60683a !important;
+  border-radius: 4px;
+  font-family: ZCOOL QingKe HuangYou;
+  font-size: 24px !important;
+  font-weight: 500;
+  margin: 10px 10px 10px 0;
 }
 
 /* 爱发电打赏组件 - 暗黑模式适配（全局生效） */
