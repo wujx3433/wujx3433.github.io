@@ -41,8 +41,8 @@
   display: inline-block;
   padding: 4px 4px;
   text-decoration: none !important;
-  background-color: #cee3a3;
-  color: #60683a !important;
+  background-color: #a667ca;
+  color: #dffb60 !important;
   border-radius: 4px;
   font-family: ZCOOL QingKe HuangYou;
   font-size: 24px !important;
@@ -81,7 +81,7 @@ html.dark .vertical-layout-container {
     linear-gradient(rgba(255,255,255,0.01) 1px, transparent 1px);
 }
 
-/* 暗黑模式单页底色 */
+/* 暗黑模式vertical单页底色 */
 html.dark .vertical-layout-container > * {
   background-color: #333330;
   box-shadow: 0 1px 3px rgba(0,0,0,0.2);
