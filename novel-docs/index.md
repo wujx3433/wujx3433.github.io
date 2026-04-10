@@ -1,7 +1,7 @@
 ---
 layout: doc
 ---
-<style>
+<style scoped>
 .vp-doc h3 {
   line-height: 1em;
   font-family: "Noto Serif SC";
