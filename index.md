@@ -119,4 +119,4 @@ All rights reserved.
 
 <u>🏳️‍🌈🏳️‍⚧️</u>[🔖](./bookmark.md)<u>🐈🍥</u>
 
-<a href="./feats.html" class="purple-btn">本站被支持的特性的特性</a>
+<a href="./feats.html" class="purple-btn">本站被支持的特性</a>
