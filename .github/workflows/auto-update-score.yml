@@ -24,7 +24,7 @@ jobs:
 
       # 3. 安装依赖（requests）
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r requests
 
       # 4. 运行子模块中的两个Python脚本（自动输出到 public/）
       - name: Run score scripts
