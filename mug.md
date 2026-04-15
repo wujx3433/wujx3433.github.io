@@ -1,7 +1,3 @@
----
-layout: doc
----
-
 # 音游页面
 
 ## 🎵 舞萌 DX
@@ -21,13 +17,36 @@ layout: doc
   border-radius: 8px;
   margin: 10px 0;
 }
+.error-text {
+  color: #dc3545;
+  font-style: italic;
+}
 </style>
 
 <script setup>
 // 自动加载成绩文本
-fetch('/maimai.txt').then(r => r.text()).then(t => {
-  document.getElementById('maimai').textContent = t
+const loadScore = async (id, filename) => {
+  try {
+    const response = await fetch(filename)
+    if (!response.ok) {
+      throw new Error(`请求失败: ${response.status}`)
+    }
+    const text = await response.text()
+    document.getElementById(id).textContent = text.trim()
+  } catch (error) {
+    console.warn(`加载 ${filename} 失败:`, error)
+    const element = document.getElementById(id)
+    if (element) {
+      element.textContent = '成绩加载失败'
+      element.className = 'error-text'
+    }
+  }
+}
+
+// 页面加载完成后执行
+import { onMounted } from 'vue'
+onMounted(() => {
+  loadScore('maimai', '/maimai.txt')
+  loadScore('chunithm', '/chunithm.txt')
 })
-fetch('/chunithm.txt').then(r => r.text()).then(t => {
-  document.getElementById('chunithm').textContent = t
-})
+</script>
