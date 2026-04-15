@@ -54,7 +54,7 @@ Zn（又名 ZnP），常用用户名 **wujx3433**。
 
 ## 🛠️ 技能与专长
 
-- 喜欢游玩各类街机音游，如maimai でらっくす、CHUNITHM、太鼓の達人等。目前国服**maimai でらっくす**成绩![](https://dxrating.luoling.moe/api/genImage/wujx3433)
+- 喜欢游玩各类街机音游，如maimai でらっくす、CHUNITHM、太鼓の達人等。
 - **没有**信息学竞赛经历，只是略懂代码与算法
 - 曾就职于某MCN机构，了解短视频带货与切片剪辑
 - 持有业余无线电操作证书与执照，呼号 **BG4KAD**
@@ -118,5 +118,9 @@ All rights reserved.
 ## 
 
 <u>🏳️‍🌈🏳️‍⚧️</u>[🔖](./bookmark.md)<u>🐈🍥</u>
+
+<a href="/mug.html" class="purple-btn">
+  音游成绩页
+</a>
 
 <a href="./feats.html" class="purple-btn">本站被支持的特性</a>

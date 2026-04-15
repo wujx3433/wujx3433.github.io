@@ -1,0 +1,49 @@
+name: 每日自动更新音游成绩
+# 触发规则：UTC 0点 执行 + 支持手动触发
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-score:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. 拉取代码 + 强制同步 Git 子模块（lx-score）
+      - name: Checkout code & submodules
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 关键：拉取你的子模块代码
+          fetch-depth: 0
+
+      # 2. 安装 Python 环境
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      # 3. 安装依赖（requests）
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # 4. 运行子模块中的两个Python脚本（自动输出到 public/）
+      - name: Run score scripts
+        env:
+          LX_API: ${{ secrets.LX_API }}
+          MAI_USER_ID: ${{ secrets.MAI_USER_ID }}
+          CHUNI_USER_ID: ${{ secrets.CHUNI_USER_ID }}
+        run: |
+          # 运行舞萌脚本 → 输出到 public/maimai.txt
+          cd modules/lx-score
+          python mai.py
+          # 运行中二脚本 → 输出到 public/chunithm.txt
+          python chuni.py
+
+      # 5. 提交更新到仓库
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git add public/*.txt
+          git diff --quiet || git commit -m "✨ 自动更新每日音游成绩"
+          git push
