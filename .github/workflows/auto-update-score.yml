@@ -19,7 +19,7 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }} # 🔥 修复点
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       # 2. 安装Python
       - name: Setup Python
