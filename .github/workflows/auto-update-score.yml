@@ -1,11 +1,10 @@
 name: 每日自动更新音游成绩
-# 触发规则：UTC 0点 执行 + 支持手动触发
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-# 🔥 核心修复：给Action开启仓库写入权限
+# 开启写入权限（解决403）
 permissions:
   contents: write
 
@@ -13,40 +12,50 @@ jobs:
   update-score:
     runs-on: ubuntu-latest
     steps:
-      # 1. 拉取代码 + 子模块（带权限令牌）
-      - name: Checkout code & submodules
+      - name: 拉取代码 + 子模块
         uses: actions/checkout@v4
         with:
           submodules: true
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # 2. 安装Python
-      - name: Setup Python
+      - name: 配置Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      # 3. 安装依赖
-      - name: Install dependencies
+      - name: 安装依赖
         run: pip install requests
 
-      # 4. 运行脚本生成成绩
-      - name: Run score scripts
+      # 🛠️ 调试1：打印当前路径，确认目录结构
+      - name: 查看目录结构
+        run: pwd && ls -la && ls -la modules/lx-score/
+
+      # 🚀 运行脚本（核心：强制创建public文件夹）
+      - name: 运行成绩脚本
         env:
-          LX_API: ${{ secrets.LX_API }}
+          LX_API: ${{ secrets.LUOXUE_API_KEY }}
           MAI_USER_ID: ${{ secrets.MAI_USER_ID }}
           CHUNI_USER_ID: ${{ secrets.CHUNI_USER_ID }}
         run: |
+          # 先确保根目录的public文件夹存在
+          mkdir -p ../../public
+          mkdir -p public
+          # 进入子模块运行脚本
           cd modules/lx-score
           python mai.py
           python chuni.py
 
-      # 5. 提交并推送（修复权限）
-      - name: Commit and push changes
+      # 🛠️ 调试2：查看是否生成了txt文件
+      - name: 检查生成的文件
+        run: ls -la public/
+
+      # 🚀 强制提交（不管有没有变化，都提交，解决无commit问题）
+      - name: 提交并推送
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "actions@github.com"
-          git add public/*.txt
-          git diff --quiet || git commit -m "✨ 自动更新每日音游成绩"
+          git add public/maimai.txt public/chunithm.txt
+          # 强制提交，哪怕文件没变化（保证一定有commit）
+          git commit -m "✨ 自动更新每日音游成绩" --allow-empty
           git push
