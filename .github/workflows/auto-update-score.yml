@@ -5,41 +5,44 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+# 🔥 核心修复：给Action开启仓库写入权限
+permissions:
+  contents: write
+
 jobs:
   update-score:
     runs-on: ubuntu-latest
     steps:
-      # 1. 拉取代码 + 强制同步 Git 子模块（lx-score）
+      # 1. 拉取代码 + 子模块（带权限令牌）
       - name: Checkout code & submodules
         uses: actions/checkout@v4
         with:
-          submodules: true  # 关键：拉取你的子模块代码
+          submodules: true
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }} # 🔥 修复点
 
-      # 2. 安装 Python 环境
+      # 2. 安装Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.10"
+          python-version: "3.11"
 
-      # 3. 安装依赖（requests）
+      # 3. 安装依赖
       - name: Install dependencies
         run: pip install requests
 
-      # 4. 运行子模块中的两个Python脚本（自动输出到 public/）
+      # 4. 运行脚本生成成绩
       - name: Run score scripts
         env:
           LX_API: ${{ secrets.LX_API }}
           MAI_USER_ID: ${{ secrets.MAI_USER_ID }}
           CHUNI_USER_ID: ${{ secrets.CHUNI_USER_ID }}
         run: |
-          # 运行舞萌脚本 → 输出到 public/maimai.txt
           cd modules/lx-score
           python mai.py
-          # 运行中二脚本 → 输出到 public/chunithm.txt
           python chuni.py
 
-      # 5. 提交更新到仓库
+      # 5. 提交并推送（修复权限）
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
