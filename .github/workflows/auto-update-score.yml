@@ -34,7 +34,7 @@ jobs:
       # 🚀 运行脚本（核心：强制创建public文件夹）
       - name: 运行成绩脚本
         env:
-          LX_API: ${{ secrets.LUOXUE_API_KEY }}
+          LX_API: ${{ secrets.LX_API }}
           MAI_USER_ID: ${{ secrets.MAI_USER_ID }}
           CHUNI_USER_ID: ${{ secrets.CHUNI_USER_ID }}
         run: |
