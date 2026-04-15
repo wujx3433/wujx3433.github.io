@@ -1,0 +1,3 @@
+[submodule "modules/lx-score"]
+	path = modules/lx-score
+	url = https://github.com/wujx3433/lx-score.git
