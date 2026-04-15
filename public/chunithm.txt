@@ -1,0 +1,365 @@
+============================================================
+                         中二节奏玩家基本信息                         
+============================================================
+玩家名称：ＺｎＰ♀ω♀
+等级：16
+Rating：13.56
+Overpower：11029.31
+
+============================================================
+                          Best 30                           
+============================================================
+
+[1]
+  曲名: Titania
+  难度: 13+ (EXPERT)
+  分数: 993594  评级: S+
+  Rating: 14.5438
+	  CLEAR		
+
+[2]
+  曲名: Aleph-0
+  难度: 13+ (EXPERT)
+  分数: 992649  评级: S+
+  Rating: 14.4060
+	  CLEAR		
+
+[3]
+  曲名: 封焔の135秒
+  难度: 13+ (EXPERT)
+  分数: 991585  评级: S+
+  Rating: 14.3634
+	  CLEAR		
+
+[4]
+  曲名: Valsqotch
+  难度: 13+ (EXPERT)
+  分数: 995213  评级: S+
+  Rating: 14.3085
+	  CLEAR		
+
+[5]
+  曲名: sølips
+  难度: 13+ (EXPERT)
+  分数: 990925  评级: S+
+  Rating: 14.2370
+	  CLEAR		
+
+[6]
+  曲名: MARENOL
+  难度: 12+ (EXPERT)
+  分数: 1002498  评级: SS
+  Rating: 14.0498
+	  CLEAR		
+
+[7]
+  曲名: SUPER AMBULANCE
+  难度: 13+ (EXPERT)
+  分数: 988296  评级: S
+  Rating: 14.0318
+	  CLEAR		
+
+[8]
+  曲名: 竹
+  难度: 13 (EXPERT)
+  分数: 999775  评级: S+
+  Rating: 13.9910
+	  CLEAR		
+
+[9]
+  曲名: MarbleBlue.
+  难度: 13+ (EXPERT)
+  分数: 982199  评级: S
+  Rating: 13.9880
+	  CLEAR		
+
+[10]
+  曲名: ばかみたい【Taxi Driver Edition】
+  难度: 13 (MASTER)
+  分数: 999401  评级: S+
+  Rating: 13.9760
+	  CLEAR		
+
+[11]
+  曲名: Destr0yer
+  难度: 14+ (MASTER)
+  分数: 966023  评级: AAA
+  Rating: 13.9614
+	  CLEAR		
+
+[12]
+  曲名: Re：End of a Dream
+  难度: 13 (EXPERT)
+  分数: 988750  评级: S
+  Rating: 13.9500
+	  CLEAR		
+
+[13]
+  曲名: ヒビカセ
+  难度: 13 (MASTER)
+  分数: 989738  评级: S
+  Rating: 13.8895
+	  CLEAR		
+
+[14]
+  曲名: A Site De La Rue
+  难度: 12+ (EXPERT)
+  分数: 998345  评级: S+
+  Rating: 13.8338
+	  CLEAR		
+
+[15]
+  曲名: テオ
+  难度: 13 (MASTER)
+  分数: 984425  评级: S
+  Rating: 13.7770
+	  CLEAR		
+
+[16]
+  曲名: Climax
+  难度: 13 (EXPERT)
+  分数: 982806  评级: S
+  Rating: 13.7122
+	  CLEAR		
+
+[17]
+  曲名: Blows Up Everything
+  难度: 13+ (EXPERT)
+  分数: 977754  评级: S
+  Rating: 13.7102
+	  CLEAR		
+
+[18]
+  曲名: 星界ちゃんと可不ちゃんのおつかい合騒曲
+  难度: 12 (EXPERT)
+  分数: 1006025  评级: SS+
+  Rating: 13.7050
+	  CLEAR		
+
+[19]
+  曲名: Brain Power
+  难度: 14 (MASTER)
+  分数: 965045  评级: AAA
+  Rating: 13.7027
+	  CLEAR		
+
+[20]
+  曲名: We Are Us
+  难度: 13 (MASTER)
+  分数: 981120  评级: S
+  Rating: 13.6448
+	  CLEAR		
+
+[21]
+  曲名: SON OF SUN
+  难度: 13+ (EXPERT)
+  分数: 972167  评级: AAA
+  Rating: 13.6300
+	  HARD		
+
+[22]
+  曲名: Opfer
+  难度: 13+ (EXPERT)
+  分数: 972624  评级: AAA
+  Rating: 13.5574
+	  CLEAR		
+
+[23]
+  曲名: TEmPTaTiON
+  难度: 13+ (EXPERT)
+  分数: 975858  评级: S
+  Rating: 13.5343
+	  CLEAR		
+
+[24]
+  曲名: folern
+  难度: 13+ (EXPERT)
+  分数: 971922  评级: AAA
+  Rating: 13.5153
+	  CLEAR		
+
+[25]
+  曲名: Knight Rider
+  难度: 12+ (EXPERT)
+  分数: 992123  评级: S+
+  Rating: 13.4849
+	  CLEAR		
+
+[26]
+  曲名: Aleph-0
+  难度: 14+ (MASTER)
+  分数: 951247  评级: AAA
+  Rating: 13.4748
+	  CLEAR		
+
+[27]
+  曲名: 初音ミクの激唱
+  难度: 13 (EXPERT)
+  分数: 986700  评级: S
+  Rating: 13.4680
+	  HARD		
+
+[28]
+  曲名: CHAOS
+  难度: 13+ (MASTER)
+  分数: 968410  评级: AAA
+  Rating: 13.4046
+	  CLEAR		
+
+[29]
+  曲名: ナイト・オブ・ナイツ
+  难度: 12 (MASTER)
+  分数: 1000635  评级: SS
+  Rating: 13.2635
+	  CLEAR		
+
+[30]
+  曲名: 砂の惑星 feat. HATSUNE MIKU
+  难度: 12+ (MASTER)
+  分数: 986565  评级: S
+  Rating: 13.2626
+	  CLEAR		
+
+============================================================
+                        New Best 20                         
+============================================================
+
+[1]
+  曲名: Latent Kingdom
+  难度: 13 (EXPERT)
+  分数: 999012  评级: S+
+  Rating: 14.3605
+	  CLEAR		
+
+[2]
+  曲名: Chronomia
+  难度: 12+ (EXPERT)
+  分数: 1001494  评级: SS
+  Rating: 13.8494
+	  CLEAR		
+
+[3]
+  曲名: マシンガンポエムドール
+  难度: 13+ (EXPERT)
+  分数: 975085  评级: S
+  Rating: 13.8034
+	  CLEAR		
+
+[4]
+  曲名: Stardust:RAY
+  难度: 13+ (EXPERT)
+  分数: 980908  评级: S
+  Rating: 13.7363
+	  CLEAR		
+
+[5]
+  曲名: Crush the Dystopia
+  难度: 13 (EXPERT)
+  分数: 980458  评级: S
+  Rating: 13.5183
+	  CLEAR		
+
+[6]
+  曲名: 匿名M
+  难度: 13 (MASTER)
+  分数: 977536  评级: S
+  Rating: 13.5014
+	  CLEAR		
+
+[7]
+  曲名: Ai C
+  难度: 13 (EXPERT)
+  分数: 981446  评级: S
+  Rating: 13.4578
+	  CLEAR		
+
+[8]
+  曲名: MeteorSnow
+  难度: 13+ (EXPERT)
+  分数: 969413  评级: AAA
+  Rating: 13.3648
+	  CLEAR		
+
+[9]
+  曲名: ヒュブリスの頂に聳えるのは
+  难度: 12+ (EXPERT)
+  分数: 995786  评级: S+
+  Rating: 13.3314
+	  CLEAR		
+
+[10]
+  曲名: Presence
+  难度: 12+ (MASTER)
+  分数: 991726  评级: S+
+  Rating: 13.1690
+	  CLEAR		
+
+[11]
+  曲名: ÅMARA (大未来電脳)
+  难度: 13 (EXPERT)
+  分数: 970179  评级: AAA
+  Rating: 13.0107
+	  CLEAR		
+
+[12]
+  曲名: 勇者
+  难度: 13 (MASTER)
+  分数: 972785  评级: AAA
+  Rating: 12.9671
+	  CLEAR		
+
+[13]
+  曲名: Overhea[r]t
+  难度: 12 (EXPERT)
+  分数: 991631  评级: S+
+  Rating: 12.9652
+	  CLEAR		
+
+[14]
+  曲名: 熱異常
+  难度: 11+ (EXPERT)
+  分数: 1001475  评级: SS
+  Rating: 12.9475
+	  BRAVE		
+
+[15]
+  曲名: 晴る
+  难度: 11+ (MASTER)
+  分数: 1000282  评级: SS
+  Rating: 12.9282
+	  BRAVE		
+
+[16]
+  曲名: Latent Kingdom
+  难度: 15 (MASTER)
+  分数: 938052  评级: AA
+  Rating: 12.8831
+	  CLEAR		
+
+[17]
+  曲名: 1000年生きてる
+  难度: 12+ (MASTER)
+  分数: 983156  评级: S
+  Rating: 12.8262
+	  CLEAR		
+
+[18]
+  曲名: 愛包ダンスホール
+  难度: 12+ (MASTER)
+  分数: 975567  评级: S
+  Rating: 12.8227
+	  CLEAR		
+
+[19]
+  曲名: ずんだパーリナイ
+  难度: 13+ (MASTER)
+  分数: 963162  评级: AAA
+  Rating: 12.7897
+	  CLEAR		
+
+[20]
+  曲名: 唱
+  难度: 12+ (MASTER)
+  分数: 977169  评级: S
+  Rating: 12.7868
+	  HARD		

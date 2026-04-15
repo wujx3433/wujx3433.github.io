@@ -1,0 +1,369 @@
+============================================================
+                          舞萌玩家基本信息                          
+============================================================
+玩家名称：ＺｎＰ♀ω♀
+Rating：15190
+
+============================================================
+                          B50 数据汇总                          
+============================================================
+旧版本 Best 35 总分：10627
+现版本 Best 15 总分：4563
+
+============================================================
+                        旧版本 Best 35                         
+============================================================
+
+[1]
+  曲名: Knight Rider
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.9002%
+  DX Rating: 310  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[2]
+  曲名: enchanted wanderer
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.8207%
+  DX Rating: 310  评级: SSS+
+	  FC	  FS
+
+[3]
+  曲名: Blows Up Everything
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5393%
+  DX Rating: 310  评级: SSS+
+		  SYNC PLAY
+
+[4]
+  曲名: 終点
+  难度: 13+ (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.7289%
+  DX Rating: 308  评级: SSS+
+	  FC	  SYNC PLAY
+
+[5]
+  曲名: おとせサンダー
+  难度: 13+ (Re:MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6956%
+  DX Rating: 308  评级: SSS+
+	  FC	  FS+
+
+[6]
+  曲名: きゅうくらりん
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6475%
+  DX Rating: 308  评级: SSS+
+	  FC	  SYNC PLAY
+
+[7]
+  曲名: 無敵We are one!!
+  难度: 13+ (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.5949%
+  DX Rating: 308  评级: SSS+
+	  FC	  FS
+
+[8]
+  曲名: Altale
+  难度: 13+ (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.5389%
+  DX Rating: 308  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[9]
+  曲名: 星空パーティーチューン
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5114%
+  DX Rating: 308  评级: SSS+
+		  SYNC PLAY
+
+[10]
+  曲名: Never Give Up!
+  难度: 13+ (Re:MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5078%
+  DX Rating: 308  评级: SSS+
+	  FC	  SYNC PLAY
+
+[11]
+  曲名: リフヴェイン
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5619%
+  DX Rating: 306  评级: SSS+
+		  SYNC PLAY
+
+[12]
+  曲名: INTERNET OVERDOSE
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.9289%
+  DX Rating: 303  评级: SSS+
+	  FC+	  FS
+
+[13]
+  曲名: トランスダンスアナーキー
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.7887%
+  DX Rating: 303  评级: SSS+
+	  FC	  SYNC PLAY
+
+[14]
+  曲名: Transcend Lights
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.7584%
+  DX Rating: 303  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[15]
+  曲名: スカーレット警察のゲットーパトロール24時
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.7129%
+  DX Rating: 303  评级: SSS+
+	  FC	  FS
+
+[16]
+  曲名: ECHO
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.6511%
+  DX Rating: 303  评级: SSS+
+		  SYNC PLAY
+
+[17]
+  曲名: ナイト・オブ・ナイツ
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5833%
+  DX Rating: 303  评级: SSS+
+		  SYNC PLAY
+
+[18]
+  曲名: Sunday Night feat Kanata.N
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5762%
+  DX Rating: 303  评级: SSS+
+		  SYNC PLAY
+
+[19]
+  曲名: 患部で止まってすぐ溶ける～狂気の優曇華院
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5296%
+  DX Rating: 303  评级: SSS+
+		  SYNC PLAY
+
+[20]
+  曲名: 隠密あんみつDX
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5134%
+  DX Rating: 303  评级: SSS+
+		  SYNC PLAY
+
+[21]
+  曲名: ウミユリ海底譚
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 101.0000%
+  DX Rating: 301  评级: SSS+
+	  AP+	  FS
+
+[22]
+  曲名: Believe the Rainbow
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.8867%
+  DX Rating: 301  评级: SSS+
+	  FC+	  FS+
+
+[23]
+  曲名: Falling
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.8718%
+  DX Rating: 301  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[24]
+  曲名: 39
+  难度: 13 (Re:MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.7554%
+  DX Rating: 301  评级: SSS+
+	  FC	  SYNC PLAY
+
+[25]
+  曲名: ベースラインやってる？笑
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6638%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[26]
+  曲名: ヒバリ
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6584%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[27]
+  曲名: ワードワードワード
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6109%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[28]
+  曲名: 白ゆき
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.5955%
+  DX Rating: 301  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[29]
+  曲名: ヒトガタ
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5680%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[30]
+  曲名: 猫祭り
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.5185%
+  DX Rating: 301  评级: SSS+
+	  FC	  SYNC PLAY
+
+[31]
+  曲名: Last Samurai
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.3165%
+  DX Rating: 301  评级: SSS
+	  FC	  SYNC PLAY
+
+[32]
+  曲名: Strange Bar
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.0244%
+  DX Rating: 300  评级: SSS
+		  SYNC PLAY
+
+[33]
+  曲名: Magical Flavor
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.9642%
+  DX Rating: 299  评级: SSS+
+	  AP	  FS
+
+[34]
+  曲名: 若い力
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.8951%
+  DX Rating: 299  评级: SSS+
+	  AP	  SYNC PLAY
+
+[35]
+  曲名: 不思議の国のクリスマス
+  难度: 13 (MASTER)  类型:   谱面: 标准乐谱
+  达成率: 100.8684%
+  DX Rating: 299  评级: SSS+
+	  FC+	  FS+
+
+============================================================
+                        现版本 Best 15                         
+============================================================
+
+[1]
+  曲名: 病み垢ステロイド
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5288%
+  DX Rating: 312  评级: SSS+
+	  FC	  SYNC PLAY
+
+[2]
+  曲名: バカ通信
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6567%
+  DX Rating: 308  评级: SSS+
+	  FC	  FS
+
+[3]
+  曲名: ゆけむり魂温泉 II
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6438%
+  DX Rating: 308  评级: SSS+
+	  FC	
+
+[4]
+  曲名: 最っ高のエンタメだ!!
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5766%
+  DX Rating: 308  评级: SSS+
+	  FC	  SYNC PLAY
+
+[5]
+  曲名: プラネタリウム・レヴュー
+  难度: 13+ (Re:MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5123%
+  DX Rating: 308  评级: SSS+
+		  SYNC PLAY
+
+[6]
+  曲名: エスオーエス
+  难度: 13+ (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5320%
+  DX Rating: 306  评级: SSS+
+	  FC	  SYNC PLAY
+
+[7]
+  曲名: ダーリンダンス
+  难度: 13 (Re:MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.6411%
+  DX Rating: 303  评级: SSS+
+	  FC	  SYNC PLAY
+
+[8]
+  曲名: まっすぐ→→→ストリーム！
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5386%
+  DX Rating: 303  评级: SSS+
+	  FC	  SYNC PLAY
+
+[9]
+  曲名: The Cursed Doll
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5322%
+  DX Rating: 303  评级: SSS+
+	  FC	  FS
+
+[10]
+  曲名: 氷滅の135小節
+  难度: 13 (EXPERT)  类型:   谱面: DX乐谱
+  达成率: 100.6554%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[11]
+  曲名: Make Up Your World feat. キョンシーのCiちゃん & らっぷびと
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5825%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[12]
+  曲名: 唱
+  难度: 13 (Re:MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5528%
+  DX Rating: 301  评级: SSS+
+	  FC	  SYNC PLAY
+
+[13]
+  曲名: オーバーライド
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5481%
+  DX Rating: 301  评级: SSS+
+		  SYNC PLAY
+
+[14]
+  曲名: 夢現妄想世界
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5159%
+  DX Rating: 301  评级: SSS+
+	  FC	  SYNC PLAY
+
+[15]
+  曲名: Freak Out Hr.
+  难度: 13 (MASTER)  类型:   谱面: DX乐谱
+  达成率: 100.5215%
+  DX Rating: 299  评级: SSS+
+		  SYNC PLAY
