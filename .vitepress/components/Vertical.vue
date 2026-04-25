@@ -279,6 +279,16 @@ if(import.meta.hot) {
   /* break-inside: avoid; /* 禁止标题跨列 */
 }
 
+/* 换列，且有足够内容时才换列，避免页面开头空白 */
+.vertical-layout-container h2:not(:first-of-type) {
+  break-before: column;
+}
+
+/* 同时确保 h2 下面的段落不单独换列 */
+.vertical-layout-container h2 + p {
+  break-before: avoid;
+}
+
 .vertical-layout-container h3{
   line-height: 1.8em;
   font-weight: 600;
@@ -354,6 +364,26 @@ if(import.meta.hot) {
   padding-block: 1em;
   /* 轻微圆角 */
   border-radius: 2px;
+}
+
+/*---样式的分割线*/
+.vertical-layout-container hr {
+  /* 重置浏览器默认样式 */
+  border: none;
+  margin: 0;
+  padding: 0;
+  
+  /* 竖排模式下的hr样式：垂直分割线 */
+  width: 2px; /* 竖排下宽度相当于横排高度 */
+  height: 6em; /* 竖排下高度相当于横排宽度 */
+  background-color: rgba(150, 120, 80, 0.3); /* 莫兰迪色系，贴合纸张质感 */
+  
+  /* 竖排居中 */
+  margin-inline: 2em; /* 左右间距（竖排下的上下间距） */
+  margin-block: auto; /* 上下居中（竖排下的左右居中） */
+  
+  /* 圆角美化 */
+  border-radius: 1px;
 }
 
 /* 暗黑模式适配在custom.css里 */

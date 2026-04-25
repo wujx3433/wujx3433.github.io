@@ -86,6 +86,9 @@ layout: doc
 <a href="./合身.html" targret="_blank" class="purple-btn" >
   点击阅读全文
 </a>
+<a href="./vertical/合身.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
+</a>
 
 ::: info
 五年前，我站在药店门口，手心出汗，以为那是一扇通往另一个身份的门。
@@ -101,6 +104,9 @@ layout: doc
 
 <a href="./予我.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a>
+<a href="./vertical/予我.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: info
@@ -124,6 +130,9 @@ layout: doc
 <a href="./褶皱里的光.html" targret="_blank" class="purple-btn" >
   点击阅读全文
 </a>
+<a href="./vertical/褶皱里的光.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
+</a>
 
 ::: info
 这是一个讲述高中生施小庭在秩序与凝视中成长的故事。她在性别错位的困惑、校园的嘲弄与家庭的压力之间，将自己锁进安静的书写世界。一次偶然的误解与一张迟来的纸条，让她第一次意识到“被看见”未必等于“被定义”。在电场般交错的目光与情感里，她学会承认内心的褶皱，也在晚霞下，悄然拾起属于自己的光。
@@ -134,6 +143,9 @@ layout: doc
 <a href="./白色废墟.html" targret="_blank" class="purple-btn" >
   点击阅读全文
 </a>
+<a href="./vertical/白色废墟.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
+</a>
 
 ::: info
 这是一个发生在“一天之内”的故事。被迫剪发、被迫停药的跨性别者，在家庭、身体与信念的重压下行走、清洗、入睡。梦境曾是最后的避难所，却在夜里失效。无需选择，结果已然发生——当身体背叛意志，尊严与自我在白色的废墟中崩塌。
@@ -143,6 +155,9 @@ layout: doc
 
 <a href="./某一本日记.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a>
+<a href="./vertical/某一本日记.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: danger ❗️
@@ -158,6 +173,9 @@ layout: doc
 <a href="./绝妙的互换术.html" targret="_blank" class="purple-btn" >
   点击阅读全文
 </a>
+<a href="./vertical/绝妙的互换术.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
+</a>
 
 ::: danger ❗️
 请注意：本文一切内容均不构成任何医疗建议！
@@ -171,6 +189,9 @@ layout: doc
 
 <a href="./我见新天新地.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a>
+<a href="./vertical/我见新天新地.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: danger ❗️
@@ -190,6 +211,9 @@ layout: doc
 <a href="./施救者.html" targret="_blank" class="purple-btn" >
   点击阅读全文
 </a>
+<a href="./vertical/施救者.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
+</a>
 
 ::: info
 这是一部以第三人称视角展开的成长小说，讲述了主角陈远从童年到大学的心理历程。故事聚焦于他对自身身份、性别与社会期待的细微感知，以及在日常生活中的孤独与悄然幻想。通过群聊中的陌生群体、青春期的观察与内心片段，小说探索了个体与群体、真实与自我之间微妙而深沉的情感张力。文字温婉而细腻，关注成长中的隐秘心理与微小瞬间，为读者呈现一种带有思考与同理心的内心世界。
@@ -199,6 +223,8 @@ layout: doc
 
 <a href="./在什么时候人才不会对自己说谎.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a><a href="./vertical/在什么时候人才不会对自己说谎.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: info
@@ -209,6 +235,9 @@ layout: doc
 
 <a href="./戊酸雌二醇致这具身体的一封信.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a>
+<a href="./vertical/戊酸雌二醇致这具身体的一封信.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: danger ❗️
@@ -237,6 +266,9 @@ layout: doc
 
 <a href="./消失的姐姐.html" targret="_blank" class="purple-btn" >
   点击阅读全文
+</a>
+<a href="./vertical/消失的姐姐.html" targret="_blank" class="purple-btn" >
+  点击使用竖排版阅读
 </a>
 
 ::: danger ❗️
