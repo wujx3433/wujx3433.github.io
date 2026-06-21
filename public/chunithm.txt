@@ -2,9 +2,9 @@
                          中二节奏玩家基本信息                         
 ============================================================
 玩家名称：ＺｎＰ♀ω♀
-等级：16
-Rating：13.56
-Overpower：11029.31
+等级：18
+Rating：13.58
+Overpower：11908.27
 
 ============================================================
                           Best 30                           
@@ -18,73 +18,73 @@ Overpower：11029.31
 	  CLEAR		
 
 [2]
+  曲名: Destr0yer
+  难度: 14+ (MASTER)
+  分数: 974764  评级: AAA
+  Rating: 14.4858
+	  CLEAR		
+
+[3]
   曲名: Aleph-0
   难度: 13+ (EXPERT)
   分数: 992649  评级: S+
   Rating: 14.4060
 	  CLEAR		
 
-[3]
+[4]
   曲名: 封焔の135秒
   难度: 13+ (EXPERT)
   分数: 991585  评级: S+
   Rating: 14.3634
 	  CLEAR		
 
-[4]
+[5]
   曲名: Valsqotch
   难度: 13+ (EXPERT)
   分数: 995213  评级: S+
   Rating: 14.3085
 	  CLEAR		
 
-[5]
+[6]
   曲名: sølips
   难度: 13+ (EXPERT)
   分数: 990925  评级: S+
   Rating: 14.2370
 	  CLEAR		
 
-[6]
+[7]
   曲名: MARENOL
   难度: 12+ (EXPERT)
   分数: 1002498  评级: SS
   Rating: 14.0498
 	  CLEAR		
 
-[7]
+[8]
   曲名: SUPER AMBULANCE
   难度: 13+ (EXPERT)
   分数: 988296  评级: S
   Rating: 14.0318
 	  CLEAR		
 
-[8]
+[9]
   曲名: 竹
   难度: 13 (EXPERT)
   分数: 999775  评级: S+
   Rating: 13.9910
 	  CLEAR		
 
-[9]
+[10]
   曲名: MarbleBlue.
   难度: 13+ (EXPERT)
   分数: 982199  评级: S
   Rating: 13.9880
 	  CLEAR		
 
-[10]
+[11]
   曲名: ばかみたい【Taxi Driver Edition】
   难度: 13 (MASTER)
   分数: 999401  评级: S+
   Rating: 13.9760
-	  CLEAR		
-
-[11]
-  曲名: Destr0yer
-  难度: 14+ (MASTER)
-  分数: 966023  评级: AAA
-  Rating: 13.9614
 	  CLEAR		
 
 [12]
@@ -207,17 +207,17 @@ Overpower：11029.31
 	  CLEAR		
 
 [29]
-  曲名: ナイト・オブ・ナイツ
-  难度: 12 (MASTER)
-  分数: 1000635  评级: SS
-  Rating: 13.2635
+  曲名: Lemegeton -little key of solomon-
+  难度: 13 (EXPERT)
+  分数: 979265  评级: S
+  Rating: 13.3706
 	  CLEAR		
 
 [30]
-  曲名: 砂の惑星 feat. HATSUNE MIKU
-  难度: 12+ (MASTER)
-  分数: 986565  评级: S
-  Rating: 13.2626
+  曲名: 白い雪のプリンセスは
+  难度: 12 (MASTER)
+  分数: 998317  评级: S+
+  Rating: 13.3327
 	  CLEAR		
 
 ============================================================
@@ -229,14 +229,14 @@ Overpower：11029.31
   难度: 13 (EXPERT)
   分数: 999012  评级: S+
   Rating: 14.3605
-	  CLEAR		
+	  HARD		
 
 [2]
   曲名: Chronomia
   难度: 12+ (EXPERT)
   分数: 1001494  评级: SS
   Rating: 13.8494
-	  CLEAR		
+	  BRAVE		
 
 [3]
   曲名: マシンガンポエムドール
@@ -330,36 +330,36 @@ Overpower：11029.31
 	  BRAVE		
 
 [16]
+  曲名: Nyan Cat
+  难度: 12 (EXPERT)
+  分数: 989805  评级: S
+  Rating: 12.8922
+	  CLEAR		
+
+[17]
   曲名: Latent Kingdom
   难度: 15 (MASTER)
   分数: 938052  评级: AA
   Rating: 12.8831
 	  CLEAR		
 
-[17]
+[18]
   曲名: 1000年生きてる
   难度: 12+ (MASTER)
   分数: 983156  评级: S
   Rating: 12.8262
 	  CLEAR		
 
-[18]
+[19]
   曲名: 愛包ダンスホール
   难度: 12+ (MASTER)
   分数: 975567  评级: S
   Rating: 12.8227
 	  CLEAR		
 
-[19]
+[20]
   曲名: ずんだパーリナイ
   难度: 13+ (MASTER)
   分数: 963162  评级: AAA
   Rating: 12.7897
 	  CLEAR		
-
-[20]
-  曲名: 唱
-  难度: 12+ (MASTER)
-  分数: 977169  评级: S
-  Rating: 12.7868
-	  HARD		
