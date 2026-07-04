@@ -3,8 +3,8 @@
 ============================================================
 玩家名称：ＺｎＰ♀ω♀
 等级：18
-Rating：13.58
-Overpower：11908.27
+Rating：13.6
+Overpower：12093.14
 
 ============================================================
                           Best 30                           
@@ -200,24 +200,24 @@ Overpower：11908.27
 	  HARD		
 
 [28]
+  曲名: 生きる
+  难度: 13 (MASTER)
+  分数: 983640  评级: S
+  Rating: 13.4456
+	  CLEAR		
+
+[29]
   曲名: CHAOS
   难度: 13+ (MASTER)
   分数: 968410  评级: AAA
   Rating: 13.4046
 	  CLEAR		
 
-[29]
+[30]
   曲名: Lemegeton -little key of solomon-
   难度: 13 (EXPERT)
   分数: 979265  评级: S
   Rating: 13.3706
-	  CLEAR		
-
-[30]
-  曲名: 白い雪のプリンセスは
-  难度: 12 (MASTER)
-  分数: 998317  评级: S+
-  Rating: 13.3327
 	  CLEAR		
 
 ============================================================
@@ -253,24 +253,24 @@ Overpower：11908.27
 	  CLEAR		
 
 [5]
+  曲名: Ai C
+  难度: 13 (EXPERT)
+  分数: 987802  评级: S
+  Rating: 13.7121
+	  CLEAR		
+
+[6]
   曲名: Crush the Dystopia
   难度: 13 (EXPERT)
   分数: 980458  评级: S
   Rating: 13.5183
 	  CLEAR		
 
-[6]
+[7]
   曲名: 匿名M
   难度: 13 (MASTER)
   分数: 977536  评级: S
   Rating: 13.5014
-	  CLEAR		
-
-[7]
-  曲名: Ai C
-  难度: 13 (EXPERT)
-  分数: 981446  评级: S
-  Rating: 13.4578
 	  CLEAR		
 
 [8]
@@ -288,78 +288,78 @@ Overpower：11908.27
 	  CLEAR		
 
 [10]
+  曲名: Campus mode!!
+  难度: 12+ (MASTER)
+  分数: 990195  评级: S+
+  Rating: 13.2078
+	  CLEAR		
+
+[11]
   曲名: Presence
   难度: 12+ (MASTER)
   分数: 991726  评级: S+
   Rating: 13.1690
 	  CLEAR		
 
-[11]
+[12]
   曲名: ÅMARA (大未来電脳)
   难度: 13 (EXPERT)
   分数: 970179  评级: AAA
   Rating: 13.0107
 	  CLEAR		
 
-[12]
+[13]
   曲名: 勇者
   难度: 13 (MASTER)
   分数: 972785  评级: AAA
   Rating: 12.9671
 	  CLEAR		
 
-[13]
+[14]
   曲名: Overhea[r]t
   难度: 12 (EXPERT)
   分数: 991631  评级: S+
   Rating: 12.9652
 	  CLEAR		
 
-[14]
+[15]
   曲名: 熱異常
   难度: 11+ (EXPERT)
   分数: 1001475  评级: SS
   Rating: 12.9475
 	  BRAVE		
 
-[15]
+[16]
   曲名: 晴る
   难度: 11+ (MASTER)
   分数: 1000282  评级: SS
   Rating: 12.9282
 	  BRAVE		
 
-[16]
+[17]
   曲名: Nyan Cat
   难度: 12 (EXPERT)
   分数: 989805  评级: S
   Rating: 12.8922
 	  CLEAR		
 
-[17]
+[18]
   曲名: Latent Kingdom
   难度: 15 (MASTER)
   分数: 938052  评级: AA
   Rating: 12.8831
 	  CLEAR		
 
-[18]
+[19]
   曲名: 1000年生きてる
   难度: 12+ (MASTER)
   分数: 983156  评级: S
   Rating: 12.8262
 	  CLEAR		
 
-[19]
+[20]
   曲名: 愛包ダンスホール
   难度: 12+ (MASTER)
   分数: 975567  评级: S
   Rating: 12.8227
-	  CLEAR		
-
-[20]
-  曲名: ずんだパーリナイ
-  难度: 13+ (MASTER)
-  分数: 963162  评级: AAA
-  Rating: 12.7897
 	  CLEAR		
