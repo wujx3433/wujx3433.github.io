@@ -2,260 +2,260 @@
                           舞萌玩家基本信息                          
 ============================================================
 玩家名称：ＺｎＰ♀ω♀
-Rating：14897
+Rating：14925
 
 ============================================================
                           B50 数据汇总                          
 ============================================================
-旧版本 Best 35 总分：10682
-现版本 Best 15 总分：4215
+旧版本 Best 35 总分：10693
+现版本 Best 15 总分：4232
 
 ============================================================
                         旧版本 Best 35                         
 ============================================================
 
 [1]
+  曲名: Last Samurai
+  难度: 13+ (MASTER)
+  达成率: 100.8605%
+  DX Rating: 312  评级: SSS+
+	  FC+	  SYNC PLAY
+
+[2]
   曲名: 病み垢ステロイド
   难度: 13+ (MASTER)
   达成率: 100.5288%
   DX Rating: 312  评级: SSS+
 	  FC	  SYNC PLAY
 
-[2]
+[3]
   曲名: Knight Rider
   难度: 13+ (MASTER)
   达成率: 100.9002%
   DX Rating: 310  评级: SSS+
 	  FC+	  SYNC PLAY
 
-[3]
+[4]
   曲名: enchanted wanderer
   难度: 13+ (MASTER)
   达成率: 100.8207%
   DX Rating: 310  评级: SSS+
 	  FC	  FS
 
-[4]
+[5]
   曲名: Blows Up Everything
   难度: 13+ (MASTER)
   达成率: 100.5393%
   DX Rating: 310  评级: SSS+
 		  SYNC PLAY
 
-[5]
+[6]
   曲名: 終点
   难度: 13+ (MASTER)
   达成率: 100.7289%
   DX Rating: 308  评级: SSS+
 	  FC	  SYNC PLAY
 
-[6]
+[7]
   曲名: おとせサンダー
   难度: 13+ (Re:MASTER)
   达成率: 100.6956%
   DX Rating: 308  评级: SSS+
 	  FC	  FS+
 
-[7]
+[8]
   曲名: きゅうくらりん
   难度: 13+ (MASTER)
   达成率: 100.6475%
   DX Rating: 308  评级: SSS+
 	  FC	  SYNC PLAY
 
-[8]
+[9]
   曲名: ゆけむり魂温泉 II
   难度: 13+ (MASTER)
   达成率: 100.6438%
   DX Rating: 308  评级: SSS+
 	  FC	
 
-[9]
+[10]
   曲名: 無敵We are one!!
   难度: 13+ (MASTER)
   达成率: 100.5949%
   DX Rating: 308  评级: SSS+
 	  FC	  FS
 
-[10]
+[11]
   曲名: 最っ高のエンタメだ!!
   难度: 13+ (MASTER)
   达成率: 100.5766%
   DX Rating: 308  评级: SSS+
 	  FC	  SYNC PLAY
 
-[11]
+[12]
   曲名: Altale
   难度: 13+ (MASTER)
   达成率: 100.5389%
   DX Rating: 308  评级: SSS+
 	  FC+	  SYNC PLAY
 
-[12]
+[13]
   曲名: プラネタリウム・レヴュー
   难度: 13+ (Re:MASTER)
   达成率: 100.5123%
   DX Rating: 308  评级: SSS+
 		  SYNC PLAY
 
-[13]
+[14]
   曲名: 星空パーティーチューン
   难度: 13+ (MASTER)
   达成率: 100.5114%
   DX Rating: 308  评级: SSS+
 		  SYNC PLAY
 
-[14]
+[15]
   曲名: Never Give Up!
   难度: 13+ (Re:MASTER)
   达成率: 100.5078%
   DX Rating: 308  评级: SSS+
 	  FC	  SYNC PLAY
 
-[15]
+[16]
   曲名: バカ通信
   难度: 13+ (MASTER)
   达成率: 100.6567%
   DX Rating: 306  评级: SSS+
 	  FC	  FS
 
-[16]
+[17]
   曲名: リフヴェイン
   难度: 13+ (MASTER)
   达成率: 100.5619%
   DX Rating: 306  评级: SSS+
 		  SYNC PLAY
 
-[17]
+[18]
   曲名: エスオーエス
   难度: 13+ (MASTER)
   达成率: 100.5320%
   DX Rating: 306  评级: SSS+
 	  FC	  SYNC PLAY
 
-[18]
+[19]
   曲名: INTERNET OVERDOSE
   难度: 13 (MASTER)
   达成率: 100.9289%
   DX Rating: 303  评级: SSS+
 	  FC+	  FS
 
-[19]
+[20]
   曲名: トランスダンスアナーキー
   难度: 13 (MASTER)
   达成率: 100.7887%
   DX Rating: 303  评级: SSS+
 	  FC	  SYNC PLAY
 
-[20]
+[21]
   曲名: Transcend Lights
   难度: 13 (MASTER)
   达成率: 100.7584%
   DX Rating: 303  评级: SSS+
 	  FC+	  FS
 
-[21]
+[22]
   曲名: スカーレット警察のゲットーパトロール24時
   难度: 13 (MASTER)
   达成率: 100.7129%
   DX Rating: 303  评级: SSS+
 	  FC	  FS
 
-[22]
+[23]
   曲名: ECHO
   难度: 13 (MASTER)
   达成率: 100.6511%
   DX Rating: 303  评级: SSS+
 		  SYNC PLAY
 
-[23]
+[24]
   曲名: ダーリンダンス
   难度: 13 (Re:MASTER)
   达成率: 100.6411%
   DX Rating: 303  评级: SSS+
 	  FC	  SYNC PLAY
 
-[24]
+[25]
   曲名: ナイト・オブ・ナイツ
   难度: 13 (MASTER)
   达成率: 100.5833%
   DX Rating: 303  评级: SSS+
 		  SYNC PLAY
 
-[25]
+[26]
   曲名: Sunday Night feat Kanata.N
   难度: 13 (MASTER)
   达成率: 100.5762%
   DX Rating: 303  评级: SSS+
 		  SYNC PLAY
 
-[26]
+[27]
   曲名: まっすぐ→→→ストリーム！
   难度: 13 (MASTER)
   达成率: 100.5386%
   DX Rating: 303  评级: SSS+
 	  FC	  SYNC PLAY
 
-[27]
+[28]
   曲名: The Cursed Doll
   难度: 13 (MASTER)
   达成率: 100.5322%
   DX Rating: 303  评级: SSS+
 	  FC	  FS
 
-[28]
+[29]
   曲名: 患部で止まってすぐ溶ける～狂気の優曇華院
   难度: 13 (MASTER)
   达成率: 100.5296%
   DX Rating: 303  评级: SSS+
 		  SYNC PLAY
 
-[29]
+[30]
   曲名: 隠密あんみつDX
   难度: 13 (MASTER)
   达成率: 100.5134%
   DX Rating: 303  评级: SSS+
 		  SYNC PLAY
 
-[30]
+[31]
   曲名: ウミユリ海底譚
   难度: 13 (MASTER)
   达成率: 101.0000%
   DX Rating: 301  评级: SSS+
 	  AP+	  FS
 
-[31]
+[32]
   曲名: Believe the Rainbow
   难度: 13 (MASTER)
   达成率: 100.9015%
   DX Rating: 301  评级: SSS+
 	  FC+	  FS+
 
-[32]
+[33]
   曲名: Falling
   难度: 13 (MASTER)
   达成率: 100.8718%
   DX Rating: 301  评级: SSS+
 	  FC+	  SYNC PLAY
 
-[33]
+[34]
   曲名: 39
   难度: 13 (Re:MASTER)
   达成率: 100.7554%
   DX Rating: 301  评级: SSS+
 	  FC	  SYNC PLAY
 
-[34]
+[35]
   曲名: ベースラインやってる？笑
   难度: 13 (MASTER)
   达成率: 100.6638%
-  DX Rating: 301  评级: SSS+
-		  SYNC PLAY
-
-[35]
-  曲名: ヒバリ
-  难度: 13 (MASTER)
-  达成率: 100.6584%
   DX Rating: 301  评级: SSS+
 		  SYNC PLAY
 
@@ -327,43 +327,43 @@ Rating：14897
 		  SYNC PLAY
 
 [10]
+  曲名: マヌルネコのうた
+  难度: 13 (MASTER)
+  达成率: 100.0276%
+  DX Rating: 280  评级: SSS
+	  FC	  FS+
+
+[11]
+  曲名: ハオ
+  难度: 13 (MASTER)
+  达成率: 99.5397%
+  DX Rating: 277  评级: SS+
+		  SYNC PLAY
+
+[12]
   曲名: Idoratrize World
   难度: 13 (MASTER)
   达成率: 99.4807%
   DX Rating: 275  评级: SS
 		  SYNC PLAY
 
-[11]
+[13]
   曲名: 月光
   难度: 13+ (MASTER)
   达成率: 98.6241%
   DX Rating: 274  评级: S+
 		
 
-[12]
+[14]
   曲名: ビビデバ
   难度: 13 (Re:MASTER)
   达成率: 99.3458%
   DX Rating: 272  评级: SS
 		  SYNC PLAY
 
-[13]
+[15]
   曲名: きゅびずむ
   难度: 12+ (MASTER)
   达成率: 99.8223%
   DX Rating: 271  评级: SS+
 		  SYNC PLAY
-
-[14]
-  曲名: 好きな惣菜発表ドラゴン
-  难度: 12 (MASTER)
-  达成率: 100.2299%
-  DX Rating: 270  评级: SSS
-	  FC	
-
-[15]
-  曲名: Zitronectar
-  难度: 12 (EXPERT)
-  达成率: 100.5377%
-  DX Rating: 270  评级: SSS+
-		
