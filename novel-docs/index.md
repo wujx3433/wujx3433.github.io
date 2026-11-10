@@ -291,7 +291,7 @@ layout: doc
 
 ## 许可协议与著作权
 
-Copyright © wujx3433 aka Zn.
+Copyright © Zn.
 
 在无额外说明的情况下，本仓库内所有由wujx3433创作的作品，在转载时均需要遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（即署名-非商业性使用-相同方式共享）协议。
 

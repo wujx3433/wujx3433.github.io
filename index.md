@@ -39,7 +39,7 @@ features:
 
 ## 👤 我是谁？
 
-Zn（又名 ZnP），常用用户名 **wujx3433**。
+Zn，常用用户名 **wujx3433**。
 
 00后，HRT since 15 Aug 2020.
 
@@ -91,7 +91,7 @@ Zn（又名 ZnP），常用用户名 **wujx3433**。
 
 ## 许可协议与著作权
 
-Copyright © 2018 - 2026 wujx3433 aka Zn. 
+Copyright © 2018 - 2026 Zn. 
 
 All rights reserved.
 
@@ -101,7 +101,7 @@ All rights reserved.
 
 ### 第三方素材版权声明
 
-#### ZnP的头像及人设图
+#### Zn的头像及人设图
 
 Copyright © **[ゆゆ](https://www.pixiv.net/users/68864)**. 
 

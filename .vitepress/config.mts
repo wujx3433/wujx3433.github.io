@@ -51,7 +51,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'Released under CC BY-NC-SA 4.0 License.',
-      copyright: 'Copyright © wujx3433 aka Zn.'
+      copyright: 'Copyright © Zn.'
     },
     search: {
       provider: 'local'

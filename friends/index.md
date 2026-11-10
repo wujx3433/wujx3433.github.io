@@ -5,7 +5,7 @@ import { XSVG, linkSVG } from '/.vitepress/theme/icons.ts';
 const members = [
     {
     avatar: 'https://avatars.githubusercontent.com/u/32533580',
-    name: 'wujx3433 aka Zn',
+    name: 'Zn',
     title: '我自己',
     links: [
       { icon: 'github', link: 'https://github.com/wujx3433' },

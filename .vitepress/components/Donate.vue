@@ -36,7 +36,7 @@ const props = defineProps({
   // 你的爱发电昵称（可选）
   afdianNickname: {
     type: String,
-    default: 'ZnP aka wujx3433'
+    default: 'Zn'
   }
 })
 </script>

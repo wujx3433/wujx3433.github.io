@@ -158,7 +158,7 @@ layout: doc
 ``` html
 <Donate afdianUrl="你的爱发电主页链接(字符串类型)" ;
     btnText="按钮文字(字符串类型,默认'Buy me a coffee')" ;
-    afdianNickname="爱发电昵称(字符串类型,默认'ZnP aka wujx3433')" />
+    afdianNickname="爱发电昵称(字符串类型,默认'Zn')" />
 ```
 
 ### 5.竖排版布局
@@ -272,7 +272,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 const members =[
     {
     avatar: 'https://avatars.githubusercontent.com/u/32533580',
-    name: 'wujx3433 aka Zn',
+    name: 'Zn',
     title: 'Author, Developer',
     links: [
       { icon: 'github', link: 'https://github.com/wujx3433' },

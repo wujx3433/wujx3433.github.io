@@ -10,7 +10,7 @@ A place to put down my spirits.
 
 - 本仓库内的一切内容，除特殊声明外，著作权均由仓库所有者[wujx3433](https://github.com/wujx3433)所有。
 
-- Copyright © 2018 - 2026 wujx3433 aka Zn. All rights reserved.
+- Copyright © 2018 - 2026 Zn. All rights reserved.
 
 - 在无额外说明的情况下，本仓库内所有由wujx3433创作的作品，在转载时均需要遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)（即署名-非商业性使用-相同方式共享）协议。
 
