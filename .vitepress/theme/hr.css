@@ -1,0 +1,65 @@
+/* ============================================================================
+ * 分隔线（Markdown 里的 --- ）
+ * ----------------------------------------------------------------------------
+ * 默认那根通栏实线太"表格"了，读小说时像被切成两半。
+ * 这里换成：两端淡出的细线 + 正中一枚小菱形。
+ * 只作用于横排；竖排的分隔线定义在 Vertical.vue 里，不在这里覆盖。
+ *
+ * 想换风格只改下面几个变量；想彻底不要线条，
+ * 把 --rule-line 设成 0，就只剩一枚菱形浮在空白里。
+ * ========================================================================= */
+
+:root {
+  /* 线的颜色：比默认分割线深一档，才看得见 */
+  --rule-color: color-mix(in srgb, var(--vp-c-divider), var(--vp-c-text-2) 28%);
+  /* 线从两端淡入的位置：0 是透明，16% 就到实色 */
+  --rule-fade: 16%;
+  /* 线的粗细，设成 0 就只剩菱形 */
+  --rule-line: 1px;
+  /* 上下留白 */
+  --rule-gap: 3.4em;
+  /* 中间菱形的边长 */
+  --rule-mark: 5px;
+  /* 菱形两侧把线"让"出来的宽度 */
+  --rule-gap-mark: 3px;
+}
+
+/* ---------- 横排 ---------------------------------------------------------- */
+
+div.vp-doc hr {
+  position: relative;
+  height: var(--rule-line);
+  margin: var(--rule-gap) auto;
+  border: 0;
+  border-top: 0;
+  background-color: transparent;
+  background-image: linear-gradient(
+    to right,
+    transparent 0,
+    var(--rule-color) var(--rule-fade),
+    var(--rule-color) calc(100% - var(--rule-fade)),
+    transparent 100%
+  );
+  overflow: visible;
+}
+
+/* 线正中嵌一枚小菱形：底色在线上切出缺口，菱形本身填线的颜色 */
+div.vp-doc hr::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: var(--rule-mark);
+  height: var(--rule-mark);
+  background-color: var(--rule-color);
+  box-shadow: 0 0 0 var(--rule-gap-mark) var(--vp-c-bg);
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+/* ---------- 小屏幕：留白收一点 ------------------------------------------- */
+
+@media (max-width: 640px) {
+  :root {
+    --rule-gap: 2.4em;
+  }
+}
