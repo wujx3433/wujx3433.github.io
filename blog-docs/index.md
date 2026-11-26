@@ -203,6 +203,17 @@ ZnP的博客有以下标签：
 
 ## 导航
 
+### Nov 2026
+
+<div class="article-card">
+  <a href="./27%20Nov%202026%20我花一百块钱收了个不省心的控制器.html">27 Nov 2026 我花一百块钱收了个不省心的控制器</a>
+  <div class="article-desc">一百块的 Project DIVA 手台，和它身上的一堆坑</div>
+  <div class="tags">
+    <span class="tag tag-tech">⚡ 技术</span><br>
+    <span class="tag tag-game">🎮 音游</span><br>
+  </div>
+</div>
+
 ### Apr 2026
 
 <div class="article-card">
